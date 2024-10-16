@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  },
+  "dependencies": {
+    "mtrx": "^0.1.6"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "name": "lab1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
